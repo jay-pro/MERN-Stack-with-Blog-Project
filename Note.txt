@@ -1,0 +1,12 @@
+Section 1: Installing Dependencies:
+- Download Nodejs from the website https://nodejs.org/en/ and install it.
+- Download Visual Studio Code from the website https://code.visualstudio.com/ and install it.
+
+Section 2: Creating a React Frontend:
+- Create Frontend Folder:
+    > npx create-react-app my-blog
+- Install packages for my-blog:
+    > cd my-blog
+    > npm install tailwindcss -D
+    > npm install postcss -D  
+    > npm install autoprefixer npm-run-all postcss
