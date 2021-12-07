@@ -10,3 +10,6 @@ Section 2: Creating a React Frontend:
     > npm install tailwindcss -D
     > npm install postcss -D  
     > npm install autoprefixer npm-run-all postcss
+- Configure css files:
+    > cd my-blog
+    > npx tailwindcss-cli@latest init 
