@@ -13,3 +13,6 @@ Section 2: Creating a React Frontend:
 - Configure css files:
     > cd my-blog
     > npx tailwindcss-cli@latest init 
+- Install packages for app components:
+    > cd my-blog
+    > npm install --save react-router-dom
