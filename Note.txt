@@ -24,3 +24,7 @@ Section 3: Creating a Node Backend:
     > npm init -y
     > npm install --save express
     > node src/server.js
+- Test an Express server with Postman:
+    > cd my-blog-backend
+    > node src/server.js
+    > npm install --save body-parser
