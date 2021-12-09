@@ -28,3 +28,6 @@ Section 3: Creating a Node Backend:
     > cd my-blog-backend
     > node src/server.js
     > npm install --save body-parser
+- Route parameters with Express:
+    > cd my-blog-backend
+    > node src/server.js
