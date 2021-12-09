@@ -36,3 +36,12 @@ Section 3: Creating a Node Backend:
     > npm install --save nodemon
     > npm start
 - ...
+
+Section 4: Setting up MongoDB
+- Installing a MongoDB server
+- Adding MongoDB to Express:
+    > cd my-blog-backend
+    > npm install --save mongodb
+    > npm start 
+- Rewriting the comments endpoint
+
