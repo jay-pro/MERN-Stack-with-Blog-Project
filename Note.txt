@@ -45,3 +45,8 @@ Section 4: Setting up MongoDB
     > npm start 
 - Rewriting the comments endpoint
 
+Section 5: Connect the frontend and backend
+- The Fetch API
+    > cd my-blog  
+    > npm install --save whatwg-fetch
+
