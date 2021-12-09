@@ -16,3 +16,11 @@ Section 2: Creating a React Frontend:
 - Install packages for app components:
     > cd my-blog
     > npm install --save react-router-dom
+- ...
+
+Section 3: Creating a Node Backend:
+- Set up an Express server:
+    > cd my-blog-backend
+    > npm init -y
+    > npm install --save express
+    > node src/server.js
