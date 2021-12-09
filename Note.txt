@@ -31,3 +31,7 @@ Section 3: Creating a Node Backend:
 - Route parameters with Express:
     > cd my-blog-backend
     > node src/server.js
+- Automatically updating with Nodemon:
+    > cd my-blog-backend
+    > npm install --save nodemon
+    > npm start
